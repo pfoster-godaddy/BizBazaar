@@ -1,6 +1,40 @@
 {
     "SmallBusinesses": [
         {
+            "number": "6",
+            "tag": "food",
+            "name": "Professor Tobert's",
+            "description": "Think you know corn? Think again.",
+            "url": "https://professortorberts.com/",
+            "businessImage": "https://professortorberts.com/wp-content/uploads/2020/12/39_EVAN_CORNFIELD_II_CPP_GODADDY_DAY_04_0389.jpg",
+            "logoImage": "https://professortorberts.com/wp-content/uploads/2020/12/Logo2.png",
+            "featuredProducts": [
+               {
+                   "number": "1",
+                   "name": "Orange Corn Flour",
+                   "img": "https://professortorberts.com/wp-content/uploads/2020/12/Pancake-Ingredients_Corn-Flour2.jpg",
+                   "description": "Corn flour might not command the culinary limelight like grits, but ours will quickly become one of your go-to favorites. Use it for imaginative desserts, gluten-free baking, pancakes, corn pudding, breadings and fry batters. Seeking cornbread perfection? Pair it with our corn meal or grits. Non-GMO, gluten-free*, and vegan.",
+                   "url": "https://professortorberts.com/product/orange-corn-flour-24-oz-bag/"
+               },
+               {
+                   "number": "2",
+                   "name": "Orange Corn Meal",
+                   "img": "https://professortorberts.com/wp-content/uploads/2023/02/Buttery-Corn-bread-Ingredients-1-scaled-e1675799023398.jpg",
+                   "description": "Corn meal is the switch hitter of this lineup. This versatile pantry staple makes delectable cornbread, corn muffins, pancakes, pizza crust, breadings and fry batters or even polenta in a pinch. Non-GMO, gluten-free*, and vegan.",
+                   "url": "https://professortorberts.com/product/orange-cornmeal-24-oz-bag/"
+               },
+               {
+                   "number": "3",
+                   "name": "Orange Corn Grits",
+                   "img": "https://professortorberts.com/wp-content/uploads/2020/12/Shrimp-Grits-Ingredients2.jpg",
+                   "description": "The holy grail of grits. Ready in 15 minutes or less, these polenta-grind grits deliver slow-simmered, rich flavor in a fraction of the time. Velvety smooth with a nutty, buttery finish, they work equally well for Southern classics like Shrimp & Grits or traditional Italian polenta. Non-GMO, gluten-free, and vegan.",
+                   "url": "https://professortorberts.com/product/orange-corn-grits-24-oz/"
+               }
+            ],
+            "socialMedia": [
+            ]
+        },
+        {
             "number": "7",
             "tag": "materials",
             "name": "Bionic Yarn",
@@ -33,7 +67,7 @@
             ],
             "socialMedia": [
             ]
-           }
+        },
         {
          "number": "8",
          "tag": "wellness",
