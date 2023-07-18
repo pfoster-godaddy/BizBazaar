@@ -1,0 +1,137 @@
+{
+"SmallBusinesses": [
+    {
+     "number": "1",
+     "tag": "sports",
+     "name": "Hinterland Skis",
+     "description": "Made in the USA, premium quality skis. We build skis with no corners cut or expenses spared. Our wood skis feature real wood veneer top sheets.",
+     "url": "https://hinterlandskis.com",
+     "businessImage": "https://img1.wsimg.com/isteam/ip/387477c0-c10a-4bfd-8789-6151bf40c5bb/home-hinterland-03_03-0004.png/:/rs=w:1534",
+     "logoImage": "https://img1.wsimg.com/isteam/ip/387477c0-c10a-4bfd-8789-6151bf40c5bb/hinterland-new-mark-black.png/:/rs=w:89,h:120,cg:true,m/cr=w:89,h:120/qt=q:95",
+     "featuredProducts": [
+        {
+            "number": "1",
+            "name": "HeliCat 135 - Deep Powder",
+            "img": "https://img1.wsimg.com/isteam/ip/387477c0-c10a-4bfd-8789-6151bf40c5bb/ols/helicat-hinterland-heli-ski.png",
+            "description": "Experience the thrill of big mountain skiing with the HeliCat, designed exclusively for helicopter and cat skiing adventures in Alaska. Hinterland's innovative design ensures exceptional surf-like performance and stability, with a wide reverse sidecut at the front for excellent grip on varied snow conditions. This ski features a full rocker shape, providing effortless flotation in deep powder, along with the power and agility needed to charge through challenging lines and make nimble adjustments on the go.",
+            "url": "https://hinterlandskis.com/shop-all/ols/products/helicat"
+        },
+        {
+            "number": "2",
+            "name": "The Macabre 97 - All Mountain",
+            "img": "https://img1.wsimg.com/isteam/ip/387477c0-c10a-4bfd-8789-6151bf40c5bb/ols/best-all-mountain-ski-2021-0001.png",
+            "description": "Step up your game a little bit with the Macabre 97 Ski. This 97mm dream ski adds width underfoot for more stability at high speeds and rocker in the tip which boosts handling through soft snow. We can’t forget to mention this skis exquisite shape with a tapered tip and solid tail which allows the skier to arc ‘em like Mikaela on the groomed terrain. East, west or in between, this ski will keep you jazzed and always looking for that next turn. Take your skiing to the next level, the Macabre 97 level.",
+            "url": "https://hinterlandskis.com/shop-all/ols/products/the-macabre-97-all-mountain"
+        },
+        {
+            "number": "3",
+            "name": "The 88 - All Mountain Carve",
+            "img": "https://img1.wsimg.com/isteam/ip/387477c0-c10a-4bfd-8789-6151bf40c5bb/ols/best-groomer-ski-2021-0002.png",
+            "description": "Ready, set, race with the RACER READY 3,2,1 Beep! The 88 ski is designed to conquer groomers and bring out your inner speed demon. Its sleek shape and 15.5m radius allow for effortless carving, resembling a slalom race ski. With excellent performance on hardpack and the ability to handle variable terrain, this ski is both fast and versatile, guaranteed to make heads turn on the slopes.",
+            "url": "https://hinterlandskis.com/shop-all/ols/products/the-88-all-mountain-carve"
+        }
+     ],
+     "socialMedia": [
+        {
+            "number": "1",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/hinterlandskis/"
+        },
+        {
+            "number": "2",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/171321090304510"
+        }
+     ]
+    },
+    {
+     "number": "2",
+     "tag": "sports",
+     "name": "WhitePaws RunMitts",
+     "description": "On wet and chilly runs, gather confidence with the WhitePaws RunMitts Wind & Water Resistant mittens. Their innovative design lets you push the mittens down to your wrists as you warm up.",
+     "url": "https://runmitts.com",
+     "businessImage": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/runmitts-home-V6-6.png/:/rs=w:1534,m",
+     "logoImage": "",
+     "featuredProducts": [
+        {
+            "number": "1",
+            "name": "Limited Edition Print",
+            "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0001_2022_0804_RunMitts_9210-1.png",
+            "description": "These convertible, thumbless mittens are lightweight and great for this time of year. They are available for pre- order and will ship out in mid-March.",
+            "url": "https://runmitts.com/shop-1/ols/products/limited-edition-printed-whitepaws-runmitts"
+        },
+        {
+            "number": "2",
+            "name": "Wind And Water Resistant RunMitts",
+            "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0008_2022_0804_RunMitts_2173-1.png",
+            "description": "Patented, Convertible, Thumbless Mittens. More comfortable, wider at knuckles and new labels. Inside pocket to hold a hand warmer.",
+            "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-wind-and-water-resistant-runmitts-med-10x4-inches"
+        },
+        {
+            "number": "3",
+            "name": "Double Velour Fleece RunMitts",
+            "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0011_2022_0804_RunMitt-bbc6740.png/:/rs=w:1200,h:1200",
+            "description": "With a wider fit at the knuckles and new labels for added style, these mitts are both functional and fashionable. Plus, they feature an inside pocket to hold a hand warmer, ensuring your hands stay warm even in the coldest conditions. And the best part? They're machine washable and dryer-friendly, making maintenance a breeze.",
+            "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-double-velour-fleece-runmitts-small-9x4-inches"
+        }
+     ],
+     "socialMedia": [
+        {
+            "number": "1",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/whitepaws_runmitts"
+        },
+        {
+            "number": "2",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/1755010418121502"
+        }
+     ]
+    },
+    {
+        "number": "3",
+        "tag": "food",
+        "name": "Detroit Cookie Co",
+        "description": "It’s not just cookies here at DCC, come by and try our famous blondies, brownies, cereal treats & ice cream cookie sandwiches! On the weekends we have cinnamon rolls!",
+        "url": "https://www.detroitcookieco.com",
+        "businessImage": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/runmitts-home-V6-6.png/:/rs=w:1534,m",
+        "logoImage": "",
+        "featuredProducts": [
+           {
+               "number": "1",
+               "name": "Limited Edition Print",
+               "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0001_2022_0804_RunMitts_9210-1.png",
+               "description": "These convertible, thumbless mittens are lightweight and great for this time of year. They are available for pre- order and will ship out in mid-March.",
+               "url": "https://runmitts.com/shop-1/ols/products/limited-edition-printed-whitepaws-runmitts"
+           },
+           {
+               "number": "2",
+               "name": "Wind And Water Resistant RunMitts",
+               "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0008_2022_0804_RunMitts_2173-1.png",
+               "description": "Patented, Convertible, Thumbless Mittens. More comfortable, wider at knuckles and new labels. Inside pocket to hold a hand warmer.",
+               "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-wind-and-water-resistant-runmitts-med-10x4-inches"
+           },
+           {
+               "number": "3",
+               "name": "Double Velour Fleece RunMitts",
+               "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0011_2022_0804_RunMitt-bbc6740.png/:/rs=w:1200,h:1200",
+               "description": "With a wider fit at the knuckles and new labels for added style, these mitts are both functional and fashionable. Plus, they feature an inside pocket to hold a hand warmer, ensuring your hands stay warm even in the coldest conditions. And the best part? They're machine washable and dryer-friendly, making maintenance a breeze.",
+               "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-double-velour-fleece-runmitts-small-9x4-inches"
+           }
+        ],
+        "socialMedia": [
+           {
+               "number": "1",
+               "name": "Instagram",
+               "url": "https://www.instagram.com/whitepaws_runmitts"
+           },
+           {
+               "number": "2",
+               "name": "Facebook",
+               "url": "https://www.facebook.com/1755010418121502"
+           }
+        ]
+       },
+]
+}
+
