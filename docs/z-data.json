@@ -1,0 +1,40 @@
+{
+    "SmallBusinesses": [
+        {
+         "number": "8",
+         "tag": "wellness",
+         "name": "InoarG",
+         "description": "InoarG directly means, movement towards purification within. Promoting not a new lifestyle, but a change in life beginning within. Learning to love your current self before moving onto your next self is important and InoarG will help you to that path. Here at InoarG we offer yoga, meditation, and physical fitness classes. Once internal balance is found, the physical will reflect! ",
+         "url": "https://inoarg.com/",
+         "businessImage": "https://isteam.wsimg.com/ip/33bcfdaa-6e63-4f9a-b0e4-010e5ba58f01/75A10456-56B5-4271-AF8C-66C5F86798E0.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:1000,cg:true",
+         "logoImage": "https://img1.wsimg.com/isteam/ip/33bcfdaa-6e63-4f9a-b0e4-010e5ba58f01/InoarG-0ebaa4c.png/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95",
+         "featuredProducts": [
+            {
+                "number": "1",
+                "name": "Private Class",
+                "img": "https://img1.wsimg.com/isteam/ip/33bcfdaa-6e63-4f9a-b0e4-010e5ba58f01/White%20Marble%20Bedroom%20Real%20Estate%20Instagram%20Pos.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1080,cg:true",
+                "description": "Email me today to schedule your private yoga class.",
+                "url": "https://inoarg.com/"
+            },
+            {
+                "number": "2",
+                "name": "BLU Fitness Apparel",
+                "img": "https://img1.wsimg.com/isteam/ip/33bcfdaa-6e63-4f9a-b0e4-010e5ba58f01/09E6532D-92B0-44C1-B0EC-0C6DE8969E22.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:776,h:583,cg:true",
+                "description": "InoarG's very own fitness apparel, BLU!! Purchase yours today!",
+                "url": "https://blufit.square.site/"
+            },
+            {
+                "number": "3",
+                "name": "SOOTHD by Blu luxury bath salts",
+                "img": "https://img1.wsimg.com/isteam/ip/33bcfdaa-6e63-4f9a-b0e4-010e5ba58f01/fb_602779808514522_2048x1096.jpg/:/cr=t:0%25,l:14.41%25,w:71.18%25,h:100%25/rs=w:776,h:583,cg:true",
+                "description": "Use our bath salts for a relaxing moment to yourself! Jasmine, rose, lavender, calendula, and citrus! All providing you with natural skin soothing mood enhancements. ",
+                "url": "https://blufit.square.site/product/SOOTHD/124?cp=true&sa=true&sbp=false&q=false"
+            }
+         ],
+         "socialMedia": [
+         ]
+        }
+    ]
+}
+    
+    
