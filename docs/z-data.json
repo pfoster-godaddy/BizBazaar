@@ -1,6 +1,40 @@
 {
     "SmallBusinesses": [
         {
+            "number": "7",
+            "tag": "materials",
+            "name": "Bionic Yarn",
+            "description": "BIONIC® is a material engineering company supplying the consumer and industrial markets with fully traceable, high-grade textiles and polymers, made with coastal and marine plastic.",
+            "url": "https://bionicyarn.com/",
+            "businessImage": "https://th.bing.com/th/id/OIP.Ci3XZJCkp2BDhE5r5hoelQHaER?pid=ImgDet&rs=1",
+            "logoImage": "https://bionicyarn.com/wp-content/uploads/2020/10/Bionic_Logo-2048x1008.png",
+            "featuredProducts": [
+               {
+                   "number": "1",
+                   "name": "DPX Hemp Denim",
+                   "img": "https://bionicyarn.com/wp-content/uploads/2020/11/DPX-Hemp-Denim-scaled.jpg",
+                   "description": "High-quality denim material made from hemp fabric.",
+                   "url": "https://bionicyarn.com/product/dpx-hemp-denim/"
+               },
+               {
+                   "number": "2",
+                   "name": "DPX Plaid Shirting 2",
+                   "img": "https://bionicyarn.com/wp-content/uploads/2020/11/Plaid-Shirting-118_2.jpg",
+                   "description": "Plaid shirting made from DPX.",
+                   "url": "https://bionicyarn.com/product/dpx-plaid-shirting-2/"
+               },
+               {
+                   "number": "3",
+                   "name": "DPX Waxed Basketweave 10.2",
+                   "img": "https://bionicyarn.com/wp-content/uploads/2020/11/DPX-Waxed-Basketweave-10.2.png",
+                   "description": "High-quality basket weave material made from DPX.",
+                   "url": "https://bionicyarn.com/product/dpx-waxed-basketweave-10-2/"
+               }
+            ],
+            "socialMedia": [
+            ]
+           }
+        {
          "number": "8",
          "tag": "wellness",
          "name": "InoarG",
