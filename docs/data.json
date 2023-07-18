@@ -89,7 +89,95 @@
          ]
         },
         {
+            "number": "2",
+            "tag": "sports",
+            "name": "WhitePaws RunMitts",
+            "description": "On wet and chilly runs, gather confidence with the WhitePaws RunMitts Wind & Water Resistant mittens. Their innovative design lets you push the mittens down to your wrists as you warm up.",
+            "url": "https://runmitts.com",
+            "businessImage": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/runmitts-home-V6-6.png/:/rs=w:1534,m",
+            "logoImage": "",
+            "featuredProducts": [
+               {
+                   "number": "1",
+                   "name": "Limited Edition Print",
+                   "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0001_2022_0804_RunMitts_9210-1.png",
+                   "description": "These convertible, thumbless mittens are lightweight and great for this time of year. They are available for pre- order and will ship out in mid-March.",
+                   "url": "https://runmitts.com/shop-1/ols/products/limited-edition-printed-whitepaws-runmitts"
+               },
+               {
+                   "number": "2",
+                   "name": "Wind And Water Resistant RunMitts",
+                   "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0008_2022_0804_RunMitts_2173-1.png",
+                   "description": "Patented, Convertible, Thumbless Mittens. More comfortable, wider at knuckles and new labels. Inside pocket to hold a hand warmer.",
+                   "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-wind-and-water-resistant-runmitts-med-10x4-inches"
+               },
+               {
+                   "number": "3",
+                   "name": "Double Velour Fleece RunMitts",
+                   "img": "https://img1.wsimg.com/isteam/ip/acaace7c-0861-4719-8b88-bb09dc2de87e/ols/product-frame-2_0011_2022_0804_RunMitt-bbc6740.png/:/rs=w:1200,h:1200",
+                   "description": "With a wider fit at the knuckles and new labels for added style, these mitts are both functional and fashionable. Plus, they feature an inside pocket to hold a hand warmer, ensuring your hands stay warm even in the coldest conditions. And the best part? They're machine washable and dryer-friendly, making maintenance a breeze.",
+                   "url": "https://runmitts.com/shop-1/ols/products/2020-new-improved-double-velour-fleece-runmitts-small-9x4-inches"
+               }
+            ],
+            "socialMedia": [
+               {
+                   "number": "1",
+                   "name": "Instagram",
+                   "url": "https://www.instagram.com/whitepaws_runmitts"
+               },
+               {
+                   "number": "2",
+                   "name": "Facebook",
+                   "url": "https://www.facebook.com/1755010418121502"
+               }
+            ]
+        },
+        {
             "number": "3",
+            "tag": "wellness",
+            "name": "Harp Vision",
+            "description": "Tyron and April Harper are the couple behind Harp Vision. Both suffer from chronic conditions and have created all-natural products to relieve pain and improve their quality of life.",
+            "url": "https://harp-vision.com/",
+            "businessImage": "https://img1.wsimg.com/isteam/ip/a63f969f-0641-405d-b985-0696246e58fa/home-yellow_01-0001.png",
+            "logoImage": "",
+            "featuredProducts": [
+               {
+                   "number": "1",
+                   "name": "Gourmet Body Scrub",
+                   "img": "https://img1.wsimg.com/isteam/ip/a63f969f-0641-405d-b985-0696246e58fa/ols/harpvision-scrub-01.png/:/rs=w:724,h:724",
+                   "description": "Dry, dull skin? Buff away dull dry skin without robbing skin of its own moisture like salt it helps to moisturize, protect and smooth your skin.  Our  scrubs are made with a premium blend of oils and fair trade organic sugar. 10oz",
+                   "url": "https://harp-vision.com/shop/ols/products/gourmet-body-scrub"
+               },
+               {
+                   "number": "2",
+                   "name": "Vegan All Natural Soap",
+                   "img": "https://img1.wsimg.com/isteam/ip/a63f969f-0641-405d-b985-0696246e58fa/ols/product-frame-2_0000_2022_0803_HarpVision_Prod.png/:/rs=w:724,h:724",
+                   "description": "has powerful anti-inflammatory and antibacterial benefits, Petitgrain Essential Oil is a wonderful natural remedy to calm problematic skin. Even skin tone.",
+                   "url": "https://harp-vision.com/shop/ols/products/all-natural-soap"
+               },
+               {
+                   "number": "3",
+                   "name": "Premium Bath Tea",
+                   "img": "https://img1.wsimg.com/isteam/ip/a63f969f-0641-405d-b985-0696246e58fa/ols/harpvision-bathsalts.png/:/rs=w:724,h:724",
+                   "description": "Our premium 10oz tea is blended with colloidal oatmeal, Epsom, Dead Sea and Himalayan Salt with an abundance of minerals and soothing, therapeutic properties that relieves inflammation, sore muscles, joint pain and more.",
+                   "url": "https://harp-vision.com/shop/ols/products/lavender-bath-tea"
+               }
+            ],
+            "socialMedia": [
+               {
+                   "number": "1",
+                   "name": "Instagram",
+                   "url": "https://www.instagram.com/whitepaws_runmitts"
+               },
+               {
+                   "number": "2",
+                   "name": "Facebook",
+                   "url": "https://www.facebook.com/1755010418121502"
+               }
+            ]
+           },
+        {
+            "number": "4",
             "tag": "food",
             "name": "Detroit Cookie Co",
             "description": "Get Your Cookie Fix",
@@ -133,7 +221,7 @@
             ]
         },
         {
-            "number": "4",
+            "number": "5",
             "tag": "services",
             "name": "Assured Purpose",
             "description": "Multi-functional Agency offering Website design, website development, maintenance, hosting, security, SEO & more.",
@@ -208,7 +296,17 @@
                }
             ],
             "socialMedia": [
-            ]
+                {
+                    "number": "1",
+                    "name": "Instagram",
+                    "url": "https://www.instagram.com/whitepaws_runmitts"
+                },
+                {
+                    "number": "2",
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/1755010418121502"
+                }
+             ]
         },
         {
             "number": "7",
@@ -242,7 +340,17 @@
                }
             ],
             "socialMedia": [
-            ]
+                {
+                    "number": "1",
+                    "name": "Instagram",
+                    "url": "https://www.instagram.com/whitepaws_runmitts"
+                },
+                {
+                    "number": "2",
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/1755010418121502"
+                }
+             ]
         },
         {
          "number": "8",
@@ -276,6 +384,16 @@
             }
          ],
          "socialMedia": [
+            {
+                "number": "1",
+                "name": "Instagram",
+                "url": "https://www.instagram.com/whitepaws_runmitts"
+            },
+            {
+                "number": "2",
+                "name": "Facebook",
+                "url": "https://www.facebook.com/1755010418121502"
+            }
          ]
         }
     ]
