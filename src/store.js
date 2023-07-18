@@ -17,7 +17,6 @@ const Store = (props) => {
     const [currentIndex, setCurrentIndex] = useState((Math.floor(data.length / 2) + 1));
     return (
         <div>
-            <h1>store</h1>
             <AwesomeSlider
                 bullets={false}
             >
