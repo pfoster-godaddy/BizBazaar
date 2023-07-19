@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BizBazaar/static/css/main.1bf260ef.css",
+    "main.js": "/BizBazaar/static/js/main.a5feb225.js",
+    "static/js/787.129bad16.chunk.js": "/BizBazaar/static/js/787.129bad16.chunk.js",
+    "static/media/searchLrg2.png": "/BizBazaar/static/media/searchLrg2.c8256ead909d1cd22602.png",
+    "static/media/2.png": "/BizBazaar/static/media/2.e6bda44bad29c827de4e.png",
+    "static/media/3.png": "/BizBazaar/static/media/3.e4f0a413526be50e95c3.png",
+    "static/media/1.png": "/BizBazaar/static/media/1.9b2b692b99526d60b3f2.png",
+    "index.html": "/BizBazaar/index.html",
+    "main.1bf260ef.css.map": "/BizBazaar/static/css/main.1bf260ef.css.map",
+    "main.a5feb225.js.map": "/BizBazaar/static/js/main.a5feb225.js.map",
+    "787.129bad16.chunk.js.map": "/BizBazaar/static/js/787.129bad16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf260ef.css",
+    "static/js/main.a5feb225.js"
+  ]
+}
